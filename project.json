@@ -1,0 +1,31 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/StartScene.js",
+        "src/EatRadish.js",
+        "src/EatRadish1.js",
+        "src/EatRadish2.js",
+        "src/JumpRabbit.js",
+        "src/Puzzle.js",
+        "src/PuzzleSecond.js",
+        "src/PuzzleThird.js",
+        "src/tube.js",
+        "src/tube2.js",
+        "src/tube3.js",
+        "src/Menu.js",
+        "src/backHome.js"
+    ]
+}
